@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gumoshabe Angel
+# Hi 👋, I'm Angel
 
 ## AI Engineer | Python Developer
 
